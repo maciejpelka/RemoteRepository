@@ -1,0 +1,2 @@
+"# narzedziaDoAutomatyzacji" 
+"# narzedziaDoAutomatyzacji" 
