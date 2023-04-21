@@ -8,6 +8,6 @@ img {
     height: 94px;
 }
 table {
-    border-style: none;
+    border-style: dotted;
     border: 2px dotted black;
 }
