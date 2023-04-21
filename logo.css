@@ -1,4 +1,4 @@
-div {
+div{
     width: 256px;
     height: 192px;
     display: block;
@@ -9,5 +9,5 @@ img {
 }
 table {
     border-style: none;
-    border: 2px solid black;
+    border: 2px dotted black;
 }
